@@ -22,6 +22,7 @@ Simulated IT help desk incident resolving user access issues to a shared folder 
 Repository:
 https://github.com/ALottJr/servicenow-shared-folder-access-lab
 
+
 ### Windows Failed Logon Investigation (Event ID 4625)
 
 Investigated failed authentication attempts using Windows Event Viewer security logs to analyze Event ID 4625 and identify login activity.
@@ -29,11 +30,14 @@ Investigated failed authentication attempts using Windows Event Viewer security 
 Repository:
 https://github.com/ALottJr/windows-failed-logon-investigation
 
+
 ### Active Directory Home Lab
 Building a Windows Active Directory environment to practice identity management, permissions, and security monitoring.
 
+
 ### Splunk SIEM Detection Lab
 Creating SIEM alerts and investigating security events using Splunk.
+
 
 ## Skills Developing
 - Incident Response
