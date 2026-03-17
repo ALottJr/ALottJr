@@ -19,12 +19,16 @@ Hands-on cybersecurity labs documenting my journey toward a Security Analyst / S
 ### ServiceNow Shared Folder Access Lab
 Simulated IT help desk incident resolving user access issues to a shared folder using ServiceNow ticketing workflow.
 
+Repository:
+https://github.com/ALottJr/servicenow-shared-folder-access-lab
+
 ### Windows Failed Logon Investigation (Event ID 4625)
 
 Investigated failed authentication attempts using Windows Event Viewer security logs to analyze Event ID 4625 and identify login activity.
 
 Repository:
 https://github.com/ALottJr/windows-failed-logon-investigation
+
 ### Active Directory Home Lab
 Building a Windows Active Directory environment to practice identity management, permissions, and security monitoring.
 
