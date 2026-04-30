@@ -1,62 +1,52 @@
-## Anthone Lott Jr
+# Anthone Lott Jr
 
-Cybersecurity | Security+ | Blue Team | SIEM | IAM
+**Aspiring SOC Analyst | CompTIA Security+ | Blue Team | SIEM | Active Directory | IAM**
 
-Hands-on cybersecurity labs documenting my journey toward a Security Analyst / SOC Analyst role.
+I am building hands-on cybersecurity labs focused on security monitoring, log analysis, incident response, and identity/access management. My goal is to transition into an entry-level SOC Analyst, Security Analyst, IAM, or GRC-focused cybersecurity role.
 
 ## Certifications
-- CompTIA Security+
 
-## Current Learning
-- CompTIA CySA+
-- Splunk SIEM fundamentals
-- Active Directory security
-- Azure identity & access management
-- Python for cybersecurity
+- CompTIA Security+
+- Currently studying: CompTIA CySA+
+
+## What I’m Building
+
+- Windows failed logon investigations using Event Viewer and Event ID 4625
+- Linux log monitoring and SSH attack detection using auth.log
+- ServiceNow incident ticketing workflows
+- Active Directory labs focused on users, groups, permissions, and RBAC
+- SIEM fundamentals using Splunk
 
 ## Featured Projects
 
+### Windows Failed Logon Investigation
+Investigated failed authentication attempts using Windows Event Viewer, analyzed Event ID 4625 activity, and documented signs of repeated failed logon behavior.
+
+Repository: https://github.com/ALottJr/windows-failed-logon-investigation
+
+### Linux Log Monitoring Lab
+Monitored Linux authentication logs, simulated failed SSH login attempts, and identified suspicious login activity using auth.log.
+
+Repository: https://github.com/ALottJr/linux-log-monitoring-lab
+
 ### ServiceNow Shared Folder Access Lab
-Simulated IT help desk incident resolving user access issues to a shared folder using ServiceNow ticketing workflow.
+Documented an IT support incident workflow involving shared folder access troubleshooting, work notes, and resolution steps in ServiceNow.
 
-Repository:
-https://github.com/ALottJr/servicenow-shared-folder-access-lab
+Repository: https://github.com/ALottJr/servicenow-shared-folder-access-lab
 
+### Active Directory RBAC Lab
+Built an Active Directory lab focused on role-based access control, user groups, NTFS permissions, and access validation.
 
-### Windows Failed Logon Investigation (Event ID 4625)
+Repository: https://github.com/ALottJr/active-directory-rbac-lab
 
-Investigated failed authentication attempts using Windows Event Viewer security logs to analyze Event ID 4625 and identify login activity.
+## Core Skills
 
-Repository:
-https://github.com/ALottJr/windows-failed-logon-investigation
-
-
-### Active Directory Home Lab
-Building a Windows Active Directory environment to practice identity management, permissions, and security monitoring.
-
-
-### Splunk SIEM Detection Lab
-Creating SIEM alerts and investigating security events using Splunk.
-
-
-## Skills Developing
-- Incident Response
-- SIEM Analysis
+- Windows Event Log Analysis
+- Linux Log Monitoring
+- SIEM Fundamentals
+- Active Directory
 - Identity & Access Management
+- Incident Response
+- ServiceNow Ticketing
 - Security Monitoring
-- Threat Detection
-
-<!--
-**ALottJr/ALottJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
