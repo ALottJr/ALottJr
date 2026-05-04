@@ -1,6 +1,6 @@
 # Anthone Lott Jr
 
-**Aspiring SOC Analyst | CompTIA Security+ | Blue Team | SIEM | Active Directory | IAM**
+**SOC Analyst | CompTIA Security+ | Blue Team | SIEM | Active Directory | IAM**
 
 I am building hands-on cybersecurity labs focused on security monitoring, log analysis, incident response, and identity/access management. My goal is to transition into an entry-level SOC Analyst, Security Analyst, IAM, or GRC-focused cybersecurity role.
 
